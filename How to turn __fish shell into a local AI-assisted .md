@@ -3,8 +3,6 @@ Everything runs **locally**, no cloud APIs required. 🐟🤖
 
 This guide uses **Ollama** to run models on your machine.
 
-We intentionally **skip the prompt modification step** so existing prompts/themes stay untouched.
-
 ---
 
 # 🧠 Fish AI Terminal Guide (Local LLM)
