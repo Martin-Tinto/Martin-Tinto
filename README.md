@@ -1,5 +1,10 @@
 ### Hi there 👋
-I’m currently learning Azure
+Just a computernerd, doglover and trying to learn new things everyday.
+
+📫 How to reach me:https://cyberplace.social/@tinto
+
+Peace!
+
 <!--
 **Martin-Tinto/Martin-Tinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
